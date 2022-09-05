@@ -9,6 +9,6 @@ artifactId: sort\_integer\_with_java<br/>
 <br/>
 -- SortIntegers.java<br/>
 class SortIntegers {<br/>
-	public static void sort(int[] integers){Arrays.sort(integers)}<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;public static void sort(int[] integers){Arrays.sort(integers)}<br/>
 	
 
